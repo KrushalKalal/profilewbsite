@@ -1,0 +1,43 @@
+.progress_bar{
+    margin-top: 3.5% !important;
+}
+.progress{
+    margin-bottom: 9%;
+}
+.skills_content {
+    background-image:url("../../images/main_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    margin-bottom: 3%;
+    padding-bottom: 1%;
+}
+.skills_content .row{
+     width: 100%;
+    margin-bottom: 5%;
+}
+
+
+.skills {
+    width: 100%;
+    color: #2c3e50;
+    align-items: center;
+}
+.skills>div>h1{
+    
+    color: white !important;
+}
+.skill_img {
+    margin: auto;
+    display: block;
+    height: 90px;
+}
+
+.skill_name {
+    font-size: 24px;
+    font-weight: 4000;
+    text-decoration: underline;
+    text-align: center;
+    text-transform: capitalize;
+    margin: 10px 0 10px;
+}
