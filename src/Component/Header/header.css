@@ -1,0 +1,25 @@
+.header{
+    width: 100%;
+    position: absolute;
+    z-index: 10;
+}
+.navbar{
+    padding: 30px !important;
+  
+}
+.nav-item{
+    padding-left: 39px !important;
+}
+.nav-link{
+    letter-spacing: 2px;
+    font-size: 1em !important;
+    text-transform: uppercase;
+    color: #fff !important;
+   
+}
+.nav-link:hover{
+    background-color: #dcdde1 !important;
+    color: #262626 !important;
+    border-radius: 3px;
+    transition: all 0.6s ease 0s;
+}
